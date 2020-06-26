@@ -1,2 +1,41 @@
 # lembs-datascience-school
-Collection of Jupyter notebook created while going through LemBS Data Science school
+
+## General
+Collection of Jupyter notebook created while going through [LemBS Data Science school in 2019](http://ds-school.lembs.com/).
+Some assignments were not fully completed, so I left them out for a time being (including topics like NLP, Anomaly Detection, Dimensionality reduction and Recommender Systems).
+
+I will upload them if I will ever get to bring them to satisfying result.
+
+## System Requirements
+\***.ipynb** files are associated with **JupyterLab** and to comfortly work with them they do require to have following environment installed on your machine:
+
+* **Anaconda Navigator ver. 1.9.12** or higher
+* **JupyterLab ver. 0.35.4** or higher
+* **Python ver. 2.7.14** or higher. 
+
+**NOTE:** ipynb files can be opened in view mode inside your browser, but some features might be not available (e.g: ToC navigation), or may require prolonged load time. 
+
+## File Structure
+File structure should be self-explanatory without any additional comments.
+
+* Assignments
+  * 00 Linear Algebra using NumPy.ipynb
+  * 01 Linear Regression
+    * 01-00 Linear Regression Theory.ipynb
+    * 01-01 Linear Regression Univariable Solution.ipynb
+    * 01-02 Linear Regression Multivariable Solution.ipynb
+  * 02 Logistic Regression
+    * 02-00 Logistic Regression on MNIST dataset.ipynb
+    * 02-01 Logistic Regression using 1-vs-All and SoftMax on MNIST dataset.ipynb
+  * 03 CNN for Image Recognition
+    * 03-00 Using CNN to Classify Roadmarking.ipynb
+  * 04 KMeans and GMM Clusterization
+    * 04-00 Using KMeans and GMM Clusterization for Customer Segmentation.ipynb
+* Coursework
+  * Coursework.ipynb
+  
+### Coursework contents
+Coursework consists of two parts:
+
+* Hearthstone Cards Collection EDA (Exploratory Data Analysis)
+* Q-Learning for FrozenLake-v0, OpenAI Gym environment
