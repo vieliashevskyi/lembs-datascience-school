@@ -32,7 +32,8 @@ File structure should be self-explanatory without any additional comments.
   * 04 KMeans and GMM Clusterization
     * 04-00 Using KMeans and GMM Clusterization for Customer Segmentation.ipynb
 * Coursework
-  * Coursework.ipynb
+  * Part 1 Hearthstone Cards Collection EDA.ipynb
+  * Part 2 Q-Learning for FrozenLake-v0.ipynb
   
 ### Coursework contents
 Coursework consists of two parts:
