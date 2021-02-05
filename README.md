@@ -39,4 +39,6 @@ File structure should be self-explanatory without any additional comments.
 Coursework consists of two parts:
 
 * Hearthstone Cards Collection EDA (Exploratory Data Analysis)
+  ![Card Distribution per Health-Cost-Attack for Minions](/Img/HearthstoneEDA-preview#1.png) ![Card Distribution per Class](/Img/HearthstoneEDA-preview#2.png)
 * Q-Learning for FrozenLake-v0, OpenAI Gym environment
+  ![Stochastic Environment](/Img/FrozenLake_Q-Learning-StochasticEnv.png) ![deterministic Environment](/Img/FrozenLake_Q-Learning-DeterministicEnv.png)
