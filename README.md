@@ -1,7 +1,7 @@
 # lembs-datascience-school
 
 ## General
-Collection of Jupyter notebook created while going through [LemBS Data Science school in 2019](http://ds-school.lembs.com/).
+Collection of Jupyter notebook created while going through [LemBS Data Science school in 2019](http://lembs.com/dsonline).
 Some assignments were not fully completed, so I left them out for a time being (including topics like NLP, Anomaly Detection, Dimensionality reduction and Recommender Systems).
 
 I will upload them if I will ever get to bring them to satisfying result.
@@ -39,6 +39,6 @@ File structure should be self-explanatory without any additional comments.
 Coursework consists of two parts:
 
 * Hearthstone Cards Collection EDA (Exploratory Data Analysis)
-  ![Card Distribution per Health-Cost-Attack for Minions](/Img/HearthstoneEDA-preview#1.png) ![Card Distribution per Class](/Img/HearthstoneEDA-preview#2.png)
+  ![Card Distribution per Health-Cost-Attack for Minions](/Img/HearthstoneEDA-preview-1.png) ![Card Distribution per Class](/Img/HearthstoneEDA-preview-2.png)
 * Q-Learning for FrozenLake-v0, OpenAI Gym environment
   ![Stochastic Environment](/Img/FrozenLake_Q-Learning-StochasticEnv.png) ![deterministic Environment](/Img/FrozenLake_Q-Learning-DeterministicEnv.png)
