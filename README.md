@@ -35,7 +35,7 @@ File structure should be self-explanatory without any additional comments.
   * Part 1 Hearthstone Cards Collection EDA.ipynb
   * Part 2 Q-Learning for FrozenLake-v0.ipynb
   
-### Coursework contents
+## Coursework contents
 Coursework consists of two parts:
 
 * Hearthstone Cards Collection EDA (Exploratory Data Analysis)
